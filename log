@@ -379,3 +379,129 @@ INFO  26/07/2019 10:11:27 controller.RoleController:28 (list) - RequestMethod.GE
 INFO  26/07/2019 10:11:27 controller.UserController:26 (getRoles) -  get roles method
 INFO  26/07/2019 10:11:37 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
 INFO  26/07/2019 10:12:55 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 26/07/2019 15:47:45 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:47:46 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:51:03 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:51:04 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:56:27 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:56:28 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:56:36 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:56:37 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:59:08 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 15:59:09 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:00:23 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:00:23 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:30:27 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:30:28 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:31:10 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:31:11 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:46:16 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:46:17 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:55:59 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 16:56:00 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:00:27 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:00:28 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:16:35 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:16:35 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:17:06 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:17:07 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:21:11 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:21:12 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:30:20 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:30:21 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:45:40 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:45:41 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:49:05 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:49:05 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:50:10 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:50:12 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:50:23 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:50:24 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:51:10 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:51:11 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:51:49 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:51:50 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:53:09 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:53:09 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:53:30 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:53:31 userProject.App:19 (main) - main method
+INFO  26/07/2019 17:54:55 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 26/07/2019 17:55:39 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:55:40 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:56:45 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:56:46 userProject.App:19 (main) - main method
+INFO  26/07/2019 17:57:07 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 26/07/2019 17:58:02 userProject.App:19 (main) - main method
+DEBUG 26/07/2019 17:58:03 userProject.App:19 (main) - main method
+INFO  26/07/2019 17:58:23 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 09:31:58 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:31:59 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:36:28 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:36:29 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:39:02 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:39:03 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:42:40 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:42:41 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:44:06 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:44:07 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:49:23 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:49:23 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:55:47 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:55:48 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:58:50 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 09:58:51 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:00:20 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:00:21 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:03:51 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:03:52 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:11:47 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:11:48 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:16:10 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:16:11 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:17:17 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:17:18 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:18:02 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:18:03 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:22:11 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:22:12 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:22:37 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:22:38 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:25:47 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:25:48 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:26:46 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:26:47 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:29:13 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:29:14 userProject.App:19 (main) - main method
+INFO  29/07/2019 10:30:45 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 10:31:09 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:31:10 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:32:14 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:32:15 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:33:41 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:33:41 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:36:39 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:36:39 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:43:52 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:43:53 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:44:35 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:44:36 userProject.App:19 (main) - main method
+INFO  29/07/2019 10:45:01 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 10:45:34 controller.UserController:53 (deleteUser) - Enter in the delete method with id = 3
+DEBUG 29/07/2019 10:45:35 controller.UserController:55 (deleteUser) - Get the user with id = 3, username = Cain, password = Lockwood
+DEBUG 29/07/2019 10:50:42 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:50:43 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:51:09 controller.UserController:53 (deleteUser) - Enter in the delete method with id = 3
+DEBUG 29/07/2019 10:51:09 controller.UserController:55 (deleteUser) - Get the user with id = 3, username = Cain, password = Lockwood
+DEBUG 29/07/2019 10:51:10 controller.UserController:57 (deleteUser) - exit userRepository.delete(existingUser)
+INFO  29/07/2019 10:51:21 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 10:52:05 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:52:06 userProject.App:19 (main) - main method
+INFO  29/07/2019 10:52:39 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 10:56:43 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:56:44 userProject.App:19 (main) - main method
+INFO  29/07/2019 10:57:11 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+INFO  29/07/2019 10:58:04 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+INFO  29/07/2019 10:59:07 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 10:59:34 userProject.App:19 (main) - main method
+DEBUG 29/07/2019 10:59:35 userProject.App:19 (main) - main method
+INFO  29/07/2019 10:59:56 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 

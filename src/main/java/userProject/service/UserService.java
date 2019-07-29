@@ -27,6 +27,7 @@ public class UserService implements UserServiceInterface {
 
     @Override
     public User getUser(Integer id) {
+//        if(!userRepository.containsKey(id))
        return userRepository.getOne(id);
     }
 

@@ -18,6 +18,7 @@ public class PersistenceConfiguration {
     @Primary
     public DataSource dataSource() { return DataSourceBuilder.create().build();}
 
+
     @Bean()
     @ConfigurationProperties(prefix = "datasource.flyway")
     @FlywayDataSource

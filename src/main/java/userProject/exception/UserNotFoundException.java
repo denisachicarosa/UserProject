@@ -1,6 +1,6 @@
 package userProject.exception;
 
-public class UserNotFoundException extends Exception {
+public class UserNotFoundException extends RuntimeException {
     private Integer id_user;
 
     public UserNotFoundException(Integer id_user) {

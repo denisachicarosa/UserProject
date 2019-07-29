@@ -12,7 +12,7 @@ import java.util.Objects;
 public class Permission {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id_permission")
     private Integer id_permission;
 
