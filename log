@@ -505,3 +505,7 @@ INFO  29/07/2019 10:59:07 controller.UserController:31 (list) - RequestMethod.GE
 DEBUG 29/07/2019 10:59:34 userProject.App:19 (main) - main method
 DEBUG 29/07/2019 10:59:35 userProject.App:19 (main) - main method
 INFO  29/07/2019 10:59:56 controller.UserController:31 (list) - RequestMethod.GET, go to userRepository.findAll() 
+DEBUG 29/07/2019 11:01:10 controller.UserController:43 (get) - getMethod with id = 2 id type is class java.lang.Integer
+INFO  29/07/2019 11:01:19 controller.UserController:31 (getRoleById) -  get role by id 
+INFO  29/07/2019 11:01:24 controller.RoleController:28 (list) - RequestMethod.GET, go to roleRepository.findAll() 
+INFO  29/07/2019 11:01:24 controller.UserController:26 (getRoles) -  get roles method
